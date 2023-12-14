@@ -146,7 +146,7 @@ function Core() {
           handleOnClose={handleOnClose}
           amount={amount}
         />
-        Use the Till Number : <Heading>7406332</Heading>
+        Use the Till Number : <Heading>9373737</Heading>
       </Flex>
 
       <FloatingWhatsApp
